@@ -54,7 +54,6 @@ $$
 
 This coupling is what differentiates a rotating machine from a static beam. It causes the natural frequencies to split into forward and backward whirling modes, a phenomenon that we will analyze using Campbell diagrams.
 
-## this is a test ##
 ## **3. Mechanical System Modeling**
 
 To satisfy the project requirements of modeling a system with "at least three rigid bodies," we have conceptualized a simplified **Twin-Spool Turbofan Engine**. This model captures the essential dynamics of a commercial jet engine while remaining mathematically tractable for the scope of this simulation project.
