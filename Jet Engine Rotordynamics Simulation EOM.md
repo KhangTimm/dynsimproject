@@ -1,4 +1,3 @@
-
 # **Advanced Rotordynamic Simulation and Stability Analysis of a Twin-Spool Turbofan Engine: A Theoretical and Practical Synthesis**
 
 ## **1. Introduction and Motivation**
@@ -93,8 +92,6 @@ To capture the tilting dynamics and gyroscopic effects required by the prompt, e
 * Rotation (yaw) about Y ($\beta$)
 
 This results in a 4-DOF system for the simulation, derived from the minimal coordinates of the LP rigid body.
-
-
 
 ---
 
@@ -236,7 +233,8 @@ c_{xx} & 0 & 0 & 0 \\
 0 & 0 & c_{\alpha \alpha} & 0 \\
 0 & 0 & 0 & c_{\beta \beta}
 \end{bmatrix}
-+ \Omega
++
+\Omega
 \begin{bmatrix}
 0 & 0 & 0 & 0 \\
 0 & 0 & 0 & 0 \\
